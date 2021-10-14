@@ -344,11 +344,11 @@ img {
     width: 44px;
     height: 44px;
     fill: #afb1b8;
-    margin-top: 16px;
-  }
+}
 
   .team__social:not(:last-child){
     margin-right: 10px;
+    margin-top: 16px;
   }
 
   .social__link:hover,
